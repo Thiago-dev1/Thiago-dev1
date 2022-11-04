@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thiago Henrique</h1>
-<h3 align="center">Rocketseat NLW eSports</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
